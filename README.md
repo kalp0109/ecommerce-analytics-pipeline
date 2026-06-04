@@ -22,25 +22,8 @@ SQL
 Power BI
 Docker
 # Project Structure
-Ecommerce_analytics/
-│
-├── config/
-│   └── settings.py
-│
-├── consumer/
-│   └── consumer.py
-│
-├── database/
-│   ├── __init__.py
-│   └── connection.py
-│
-├── producer/
-│   └── event_generator.py
-│
-├── Ecommerce_analytics.pbix
-├── ecommerce_analytics.sql
-├── ecommerce_analytics.drawio.png
-└── README.md
+<img width="644" height="946" alt="image" src="https://github.com/user-attachments/assets/f02489b8-8ba4-4014-ab81-fa41f569bf0c" />
+
 # Features
 Simulates ecommerce user activity
 Stores event data in PostgreSQL
@@ -58,13 +41,12 @@ Event Distribution by Time
 User Activity Trends
 
 # Dashboard Preview
-Add screenshots inside an images folder and reference them here.
+
 <img width="1996" height="1114" alt="image" src="https://github.com/user-attachments/assets/9d5b2b68-fd3e-475c-8258-639973032d24" />
 
 # Business Insights
 
 The dashboard provides insights into:
-
 Revenue generation
 Purchase behavior
 Product popularity
